@@ -1,3 +1,5 @@
+this repository is a dummy repository and does not contain any code.
+
 MCQ generator is being hosted as part of my AI Powered Learning Management System, I have provided my AI service URL to this repo.
 On clicking the link Swagger UI will open.
 Just append /docs to the URL
